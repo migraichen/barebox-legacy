@@ -1,0 +1,4 @@
+[submodule "barebox"]
+	path = barebox
+	url = git@github.com:migraichen/barebox.git
+	branch = barebox-legacy
