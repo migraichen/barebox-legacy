@@ -2,3 +2,7 @@
 	path = barebox
 	url = git@github.com:migraichen/barebox.git
 	branch = barebox-legacy
+[submodule "coreboot"]
+	path = coreboot
+	url = git@github.com:migraichen/coreboot.git
+	branch = barebox-legacy
